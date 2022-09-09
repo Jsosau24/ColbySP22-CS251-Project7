@@ -6,4 +6,5 @@
 > - Gain experience with setting up a supervised learning problem and analyzing the results.
 > - Revisit and review K-means clustering and linear regression. 
 > - Practice working with Gaussian distributions (i.e. radial basis functions).
+>
 > -Obtained from Colby CS webpage
